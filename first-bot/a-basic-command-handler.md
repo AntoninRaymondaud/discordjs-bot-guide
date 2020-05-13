@@ -1,6 +1,6 @@
 # A Basic Command Handler
 
-A _Command Handler_ is essentially a way to separate your commands into different files, instead of having a bunch of `if/else` conditions inside your code \(or a `switch/case` if you're being fancy\).
+A _Command Handler_ is essentially a way to separate your commands into different files, instead of having a bunch of `if/else` 
 
 In this case, the code shows you how to separate each command into its own file. This means that each command can be _edited_ separately, and also _reloaded_ without the need to restart your bot. Yes, really!
 
